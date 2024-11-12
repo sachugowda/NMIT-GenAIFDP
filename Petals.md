@@ -163,7 +163,7 @@ This code connects to the Petals network, generating text based on the Llama 3.1
 
 If you don’t have a GPU on your local machine, you can use Google Colab to run Petals.
 
-1. **Open Google Colab**: Visit [Google Colab](https://colab.research.google.com/](https://colab.research.google.com/drive/1uCphNY7gfAUkdDrTx21dZZwCOUDCMPw8?usp=sharing#scrollTo=pBC52TF3LVY1) and create a new notebook.
+1. **Open Google Colab**: Visit [Google Colab](https://colab.research.google.com/drive/1uCphNY7gfAUkdDrTx21dZZwCOUDCMPw8?usp=sharing#scrollTo=pBC52TF3LVY1) and create a new notebook.
 2. **Enable GPU**: Go to **Runtime** > **Change runtime type** and select **GPU** as the hardware accelerator.
 3. **Install Petals**: In a Colab cell, run:
    ```python
